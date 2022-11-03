@@ -1,4 +1,4 @@
-Note: Crate a repository named "your github username" create and push a file `readme.md` in using the following template [remove this line]
+
 
 # Hi there, I am Rani Singh
 
