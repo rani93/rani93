@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 💬 Ask me about **web development, react, c/c++ ,python**
+- 💬 Ask me about **web development, react, c/c++ ,python ,Java ,Springboot**
 
 - 📫 How to reach me **rani9318@gmail.com**
 
