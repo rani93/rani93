@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rani93" alt="rani93" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommercial](https://rani93.github.io/realestate/)
+- 🔭 I’m currently working on [Ecommercial](https://ecommercial-kappa.vercel.app/)
 
 - 🌱 I’m currently learning **full stack web development**
 
