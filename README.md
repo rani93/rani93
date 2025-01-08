@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Ecommercial](https://ecommercial-kappa.vercel.app/)
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m currently learning **Springboot**
 
-- 💬 Ask me about **web development, react, c/c++ ,python ,Java ,Springboot**
+- 💬 Ask me about **web development, react.js, c/c++ ,python ,Java ,Springboot**
 
 - 📫 How to reach me **rani9318@gmail.com**
 
