@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rani Singh</h1>
+<h1 align="center">Hi 👋, I'm Rani Singh.</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
