@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **web development, react.js, c/c++, python, Java, Springboot, Redux, Hibernate, spring data JPA**
 
-- 📫 How to reach me **rani9318@gmail.com**
+- 📫 How to reach me **rani931849@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
